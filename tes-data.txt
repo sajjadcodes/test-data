@@ -1,3 +1,5 @@
 This is sample data.
 
-this is another line
+this is another line.
+
+This is another line in stage
